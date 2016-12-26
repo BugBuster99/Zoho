@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main()
 {
-  int sum,n,i,c;
+  int sum,n,c;
   printf("Enter the number");
   c=0;
   sum=0;
